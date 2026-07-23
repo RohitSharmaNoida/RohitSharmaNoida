@@ -98,7 +98,7 @@
   ### ⚙️ Developer Tools & Environment
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma&perline=8" alt="Dev Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,postman,figma,webpack&perline=8" alt="Dev Tools" />
     </a>
   </p>
 
