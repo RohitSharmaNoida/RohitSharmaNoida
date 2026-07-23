@@ -1,5 +1,4 @@
 <!-- ========================================================================= -->
-<!--                   ROHIT SHARMA - GITHUB PROFILE README                    -->
 <!-- ========================================================================= -->
 
 <!-- ⚠️ INSTRUCTIONS: Replace the following placeholders in this document:      -->
