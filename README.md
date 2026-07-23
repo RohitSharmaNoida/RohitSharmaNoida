@@ -55,7 +55,7 @@
     <td width="60%" valign="top">
       <h3>👋 Hello, World! I'm <b>Rohit Sharma</b></h3>
       <p>
-        I am a <b>Senior Frontend Developer</b> specializing in building responsive, accessible, and high-impact web applications. My core expertise lies in <b>React.js</b>, modern <b>JavaScript (ES6+)</b>, and <b>Web Accessibility (WCAG 2.1 / 2.2 AA standards)</b>.
+        I am a <b> Frontend Developer</b> specializing in building responsive, accessible, and high-impact web applications. My core expertise lies in <b>React.js</b>, modern <b>JavaScript (ES6+)</b>, and <b>Web Accessibility (WCAG 2.1 / 2.2 AA standards)</b>.
       </p>
       <p>
         Currently, I architect and engineer mission-critical enterprise systems and <b>Government of India web portals</b> designed to serve national-scale traffic with sub-second latency and complete digital accessibility.
